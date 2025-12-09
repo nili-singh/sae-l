@@ -8,6 +8,7 @@ const Events = () => {
       <HomeButton />
       <h1 style={{ fontSize: '3rem', textAlign: 'center' }}>Events Page</h1>
       <p style={{ textAlign: 'center', marginTop: '2rem' }}>Welcome to the Events page!</p>
+      <span>Nikhil srivastav</span>
     </div>
   );
 };
